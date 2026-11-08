@@ -1,0 +1,20 @@
+
+{
+  "name": "Dialogue",
+  "short_name": "Dialogue",
+  "description": "Dialogue - Messages privés, groupes et partages",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#101827",
+  "theme_color": "#101827",
+  "icons": [
+    {
+      "src": "./icon-192.png (1) (1).png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
